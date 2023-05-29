@@ -1,4 +1,4 @@
-## State GDP Tracker
+## State Per Capita Income Tracker
 The State GDP Tracker is a project that utilizes Excel to analyze and visualize the Gross Domestic Product (GDP) for different states in India over the years. The project involves extracting raw data from the RBI website, performing data cleaning and processing tasks, and creating a map chart of India using IIP maps software.
 
 ## Data Source
